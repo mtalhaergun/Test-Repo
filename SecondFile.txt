@@ -1,2 +1,4 @@
 Bu dosya han branchinin ilk dosyası.ü
 branchin 2. girdisi
+
+second file han branchinin ilerlemesi için yeni textlere sahip oldu
